@@ -1,0 +1,44 @@
+.contact-form {
+    padding: 0px;
+    margin: 0 1px;
+   background-color: gray;
+    background-size: 100%;
+    width: 100%;
+    padding-bottom: 12px;
+  
+   
+    
+}
+.container{
+    margin-left: 200px;
+}
+.bg-image {
+    /* The image used */
+   
+  
+    /* Add the blur effect */
+    filter: blur(0.1px);
+    -webkit-filter: blur(0.1px);
+}
+  .bg-image h1{
+    color: white;
+    font-size: 40px;
+    border: 2px solid #f1f1f1;
+  }
+.bg-text {
+    background-color: #0f0e0e69;
+        font-weight: bold;
+      color: white;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        /* z-index: 2; */
+        width: 25%;
+        padding: 20px;
+        text-align: center;
+      }
+      .row{
+        margin-top: 30%;
+      }
+     
